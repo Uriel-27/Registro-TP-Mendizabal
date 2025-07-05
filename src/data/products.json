@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Zapatillas",
+    "description": "Para correr.",
+    "price": 19000,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Remera",
+    "description": "100% algodón.",
+    "price": 9800,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Campera",
+    "description": "Azul marino.",
+    "price": 19800,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "Jean",
+    "description": "Super confortable.",
+    "price": 22000,
+    "image": "https://via.placeholder.com/150"
+  }
+]

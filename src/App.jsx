@@ -1,12 +1,7 @@
-import React from 'react';
-import Registro from './Registro';
+import Router from "./router/Router";
 
 function App() {
-  return (
-    <div>
-      <Registro />
-    </div>
-  );
+  return <Router />;
 }
 
 export default App;
