@@ -2,29 +2,33 @@
   {
     "id": 1,
     "name": "Zapatillas",
-    "description": "Para correr.",
-    "price": 19000,
-    "image": "https://via.placeholder.com/150"
+    "description": "Zapatillas deportivas de color celeste especialmente para correr",
+    "price": 60000,
+    "sku": "ZAP-AZUL-01",
+    "image": "https://png.pngtree.com/png-vector/20241018/ourmid/pngtree-running-shoes-or-sneakers-on-a-transparent-background-png-image_14112954.png"
   },
   {
     "id": 2,
-    "name": "Remera",
-    "description": "100% algodón.",
-    "price": 9800,
-    "image": "https://via.placeholder.com/150"
+    "name": "Camisa",
+    "description": "Camisa a cuadros",
+    "price": 70000,
+    "sku": "REM-VERDE-03",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/059/490/385/small/fashionable-green-and-black-flannel-shirt-with-checkered-pattern-isolated-on-transparent-background-png.png"
   },
   {
     "id": 3,
-    "name": "Campera",
-    "description": "Azul marino.",
-    "price": 19800,
-    "image": "https://via.placeholder.com/150"
+    "name": "Pantalon corto",
+    "description": "Pantalon corto estilo cargo con muchos bolsillos",
+    "price": 100000,
+    "sku": "PANT-NEGRO-03",
+    "image": "https://png.pngtree.com/png-vector/20240801/ourmid/pngtree-men-s-casual-cargo-cut-pants-shorts-png-image_13321361.png"
   },
   {
     "id": 4,
-    "name": "Jean",
-    "description": "Super confortable.",
-    "price": 22000,
-    "image": "https://via.placeholder.com/150"
+    "name": "Pantalon de jean",
+    "description": "Un pantalon de jean sofisticado con bolsillos utiles",
+    "price": 160000,
+    "sku": "PANT-AZUL-04",
+    "image": "https://png.pngtree.com/png-vector/20240407/ourmid/pngtree-transparent-background-with-blue-jeans-or-kid-jean-a-fresh-concept-png-image_12260399.png"
   }
 ]

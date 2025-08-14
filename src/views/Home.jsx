@@ -19,6 +19,7 @@ export default function Home() {
               <Link to={`/product/${product.id}`} className="product-link">
                 Ver detalle
               </Link>
+              <h6><strong>SKU:</strong> {product.sku}</h6>
             </div>
           ))}
         </div>

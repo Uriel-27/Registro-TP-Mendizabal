@@ -1,0 +1,38 @@
+.main-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 30px;
+  background-color: #1c1c1c;
+  color: white;
+  box-shadow: 0 -4px 8px rgba(0,0,0,0.3);
+  margin-top: 50px;
+}
+
+.main-footer p {
+  margin: 0;
+  font-weight: 500;
+  margin-bottom: 10px;
+  color: #28a745; /* combina con el logo del header */
+}
+
+.footer-links {
+  display: flex;
+  gap: 20px;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.footer-link:hover {
+  background-color: #28a745;
+  color: white;
+  transform: scale(1.05);
+}
